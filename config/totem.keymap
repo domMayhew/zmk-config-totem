@@ -35,7 +35,7 @@
         require-prior-idle-ms = <150>;
         tapping-term-ms = <280>;
         quick-tap-ms = <175>;
-}
+};
 
 / {
         behaviors {
@@ -61,7 +61,7 @@
                         hold-trigger-key-positions = <LEFT_KEY_POSITIONS>;
                         hold-trigger-on-release;
                 };
-        }
+        };
 
         keymap {
                 compatible = "zmk,keymap";
