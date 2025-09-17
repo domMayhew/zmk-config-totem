@@ -71,7 +71,7 @@
                 &kp Q        &kp W        &kp E           &kp R           &kp T                      &kp Y       &kp U          &kp I       &kp O        &kp P
                 &hml LALT A  &hml LCTRL S &hml LGUI D     &hml LSHFT F    &kp G                      &kp H       &hmr RSHFT J   &hmr RGUI K &hmr RCTRL L &hmr RALT SEMI
     &none       &kp Z        &kp X        &kp C           &kp V           &kp B                      &kp N       &kp M          &kp COMMA   &kp DOT      &kp FSLH       &none
-                                          &lt UTIL ENTER  &lt NUMS SPACE  &kp BSPC                   &kp DEL     &lt CHARS ESC  &lt MACR TAB
+                                          &lt UTIL ENTER  &lt NUMS SPACE  &kp BACKSPACE              &kp DEL     &lt CHARS ESC  &lt MACR TAB
                         >;
                 };
 
