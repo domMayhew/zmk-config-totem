@@ -15,11 +15,11 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
-#define BASE  0
+#define BASE 0
 #define CHARS 1
-#define NUMS  2
-#define UTIL  3
-#define MACR  4
+#define NUMS 2
+#define UTIL 3
+#define MACR 4
 
 &mt {
         flavor = "balanced";
