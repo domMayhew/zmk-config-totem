@@ -83,7 +83,7 @@
                         label = "CHARS";
                         bindings = <
                 &trans            &kp LBKT          &kp LBRC         &kp LPAR              &kp AT                   &kp HASH    &kp RPAR             &kp RBRC        &kp RBKT           &trans    
-                &hml LALT EXCL    &hml LCTRL PIPE   &hml LGUI MINUS  &hml CAPS_WORD EQUAL  &kp CARET                &kp DLLR    &hmr CAPS_WORD FSLH  &hmr RGUI BSLH  &hmr RCTRL AMPS    &hmr RALT SQT
+                &hml LALT EXCL    &hml LCTRL PIPE   &hml LGUI MINUS  &hml &caps_word EQUAL &kp CARET                &kp DLLR    &hmr &caps_word FSLH &hmr RGUI BSLH  &hmr RCTRL AMPS    &hmr RALT SQT
    &none        &kp PRCNT         &kp UNDER         &kp STAR         &kp PLUS              &trans                   &trans      &kp QMARK            &kp GRAVE       &kp TILDE          &trans      &trans
                                                     &trans           &GRAVE                &trans                   &trans      &trans               &trans      
                         >;
