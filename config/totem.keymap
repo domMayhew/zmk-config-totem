@@ -90,7 +90,7 @@
                         bindings = <
                 &kp Q        &kp W        &kp E            &kp R            &kp T                      &kp Y           &kp U            &kp I        &kp O        &kp P
                 &hml LALT A  &hml LCTRL S &hml LGUI D      &stl LSHFT F     &kp G                      &kp H           &str RSHFT J     &hmr RGUI K  &hmr RCTRL L &hmr RALT SEMI
-    &none       &kp Z        &kp X        &kp C            &kp V            &kp B                      &kp N           &kp M            &kp COMMA    &kp DOT      &kp FSLH        &kp SQT 
+&studio_unlock  &kp Z        &kp X        &kp C            &kp V            &kp B                      &kp N           &kp M            &kp COMMA    &kp DOT      &kp FSLH        &kp SQT 
                                           &lt NUMS TAB     &lt UTIL ENTER   &kp DOT                    &lt CHARS BSPC  &kp SPACE        &lt MACR ESC
                         >;
                 };
