@@ -91,7 +91,7 @@
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
                 enthium_layer {
-                        display-name: "ENTH";
+                        display-name = "ENTH";
                         bindings = <
                 &kp W    &kp Y      &kp U           &kp O      &kp SEMI                &kp Q           &kp L     &kp D         &kp P    &kp F
                 &kp C    &kp I      &kp E           &kp A      &kp COMMA               &kp K           &kp H     &kp T         &kp N    &kp S
