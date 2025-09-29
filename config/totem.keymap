@@ -131,7 +131,7 @@
                         bindings = <
                 &trans          &kp LS(LG(Z))     &kp LG(Z)        &caps_word          &trans                         &trans          &kp PG_UP       &kp UP      &kp PG_DN   &trans    
                 &hml LALT BSPC  &hml LCTRL ENTER  &hml LGUI LG(V)  &stl LSHFT LG(C)    &kp LG(X)                      &kp HOME        &kp LEFT        &kp DOWN    &kp RIGHT   &kp END    
-        &trans  &trans          &trans            &kp COMMA        &kp SPACE           &trans                         &trans          &trans          &trans      &trans      &trans      &trans
+&studio_unlock  &trans          &trans            &kp COMMA        &kp SPACE           &trans                         &trans          &trans          &trans      &trans      &trans      &trans
                                                   &trans           &trans              &trans                         &trans          &trans          &trans      
                         >;
                 };
