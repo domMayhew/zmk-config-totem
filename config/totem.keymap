@@ -96,7 +96,7 @@
                 &trans            &kp LBKT          &kp LBRC         &kp LPAR          &kp PRCNT                &kp HASH    &kp RPAR             &kp RBRC         &kp RBKT              &trans    
                 &hml LALT EXCL    &hml LCTRL PIPE   &hml LGUI MINUS  &stl LSHFT EQUAL  &kp CARET                &kp DLLR    &str RSHFT AMPS      &hmr RGUI FSLH   &hmr RCTRL BSLH       &hmr RALT AT
    &none        &trans            &kp STAR          &kp PLUS         &kp UNDER         &trans                   &trans      &kp QMARK            &kp TILDE        &trans                &trans          &trans
-                                                    &kp GRAVE        &kp SQT           &trans                   &trans      &trans               &trans      
+                                                    &kp GRAVE        &kp GRAVE         &kp DQT                  &trans      &trans               &trans      
                         >;
                 };
 
@@ -117,7 +117,7 @@
                 utility_layer {
                         display-name = "UTIL";
                         bindings = <
-                &trans          &trans            &kp RG(Z)        &caps_word          &trans                         &trans          &kp PG_UP       &kp UP      &kp PG_DN   &trans    
+                &trans          &kp LS(LG(Z))     &kp LG(Z)        &caps_word          &trans                         &trans          &kp PG_UP       &kp UP      &kp PG_DN   &trans    
                 &hml LALT BSPC  &hml LCTRL ENTER  &hml LGUI LG(V)  &stl LSHFT LG(C)    &kp LG(X)                      &kp HOME        &kp LEFT        &kp DOWN    &kp RIGHT   &kp END    
         &trans  &trans          &trans            &kp COMMA        &kp SPACE           &trans                         &trans          &trans          &trans      &trans      &trans      &trans
                                                   &trans           &trans              &trans                         &trans          &trans          &trans      
