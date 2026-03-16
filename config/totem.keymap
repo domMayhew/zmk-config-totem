@@ -84,9 +84,9 @@
                 enthium_layer {
                         display-name = "ENTH";
                         bindings = <
-                &kp Z      &kp Y       &kp U           &kp O       &kp SEMI                &kp Q           &kp L        &kp D         &kp P        &kp V
-                &kp LALT C &kp LCTRL I &kp LGUI E      &kp LSHFT A &kp COMMA               &kp K           &kp RSHIFT H &kp RGUI T    &kp RCTRL N  &kp RALT S
-&lt BL_TH       &kp W      &kp MINUS   &kp EQUAL       &kp DOT     &kp FSLH                &kp J           &kp M        &kp G         &kp B        &kp F  &kp X
+                &kp Z        &kp Y         &kp U           &kp O         &kp SEMI                &kp Q           &kp L          &kp D        &kp P         &kp V
+                &hml LALT C  &hml LCTRL I  &hml LGUI E     &stl LSHFT A  &kp COMMA               &kp K           &str RSHIFT H  &hmr RGUI T  &hmr RCTRL N  &hmr RALT S
+&lt BL_TH       &kp W        &kp MINUS     &kp EQUAL       &kp DOT       &kp FSLH                &kp J           &kp M          &kp G        &kp B         &kp F  &kp X
                                        &lt NUMS TAB    &kp SPACE   &lt UTIL SQT            &lt CHARS BSPC  &kp R        &lt MACR ESC
                         >;
                 };
