@@ -86,8 +86,8 @@
                         bindings = <
                 &kp Z        &kp Y         &kp U           &kp O         &kp SEMI                &kp Q           &kp L          &kp D        &kp P         &kp V
                 &hml LALT C  &hml LCTRL I  &hml LGUI E     &stl LSHFT A  &kp COMMA               &kp K           &str RSHIFT H  &hmr RGUI T  &hmr RCTRL N  &hmr RALT S
-&lt BL_TH       &kp W        &kp MINUS     &kp EQUAL       &kp DOT       &kp FSLH                &kp J           &kp M          &kp G        &kp B         &kp F  &kp X
-                                       &lt NUMS TAB    &kp SPACE   &lt UTIL SQT            &lt CHARS BSPC  &kp R        &lt MACR ESC
+&lt Z BL_TH     &kp W        &kp MINUS     &kp EQUAL       &kp DOT       &kp FSLH                &kp J           &kp M          &kp G        &kp B         &kp F        &kp X
+                                           &lt NUMS TAB    &kp SPACE   &lt UTIL SQT              &lt CHARS BSPC  &kp R        &lt MACR ESC
                         >;
                 };
 
