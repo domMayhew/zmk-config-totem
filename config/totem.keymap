@@ -84,10 +84,10 @@
                 enthium_layer {
                         display-name = "ENTH";
                         bindings = <
-                &kp W    &kp Y      &kp U           &kp O      &kp SEMI                &kp Q           &kp L     &kp D         &kp P    &kp F
-                &kp C    &kp I      &kp E           &kp A      &kp COMMA               &kp K           &kp H     &kp T         &kp N    &kp S
-&none           &kp Z    &kp MINUS  &kp EQUAL       &kp DOT    &kp FSLH                &kp J           &kp M     &kp G         &kp B    &kp V  &kp X
-                                    &lt NUMS TAB    &kp SPACE  &lt UTIL SQT            &lt CHARS BSPC  &kp R     &lt MACR ESC
+                &kp Z      &kp Y       &kp U           &kp O       &kp SEMI                &kp Q           &kp L        &kp D         &kp P        &kp V
+                &kp LALT C &kp LCTRL I &kp LGUI E      &kp LSHFT A &kp COMMA               &kp K           &kp RSHIFT H &kp RGUI T    &kp RCTRL N  &kp RALT S
+&lt BL_TH       &kp W      &kp MINUS   &kp EQUAL       &kp DOT     &kp FSLH                &kp J           &kp M        &kp G         &kp B        &kp F  &kp X
+                                       &lt NUMS TAB    &kp SPACE   &lt UTIL SQT            &lt CHARS BSPC  &kp R        &lt MACR ESC
                         >;
                 };
 
